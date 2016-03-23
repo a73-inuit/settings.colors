@@ -6,7 +6,7 @@
     "Rodrigo Erades <rerades@siete3.com>"
   ],
   "description": "Global, default settings for colors",
-  "main": "_settings.color.scss",
+  "main": "_settings.colors.scss",
   "keywords": [
     "inuitcss",
     "oocss",
