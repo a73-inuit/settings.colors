@@ -1,0 +1,21 @@
+{
+  "name": "a73-inuit-color-settings",
+  "version": "0.0.1",
+  "description": "Global, default settings for colors",
+  "main": "_settings.colors.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a73-inuit/settings.color.git"
+  },
+  "author": "Rodrigo Erades <rerades@siete3.com>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/a73-inuit/settings.color/issues"
+  },
+  "homepage": "https://github.com/a73-inuit/settings.color",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ]
+}
