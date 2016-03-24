@@ -1,4 +1,4 @@
-# Colors
+# settings.Colors
 
 Define our initial colors scheme.
 
