@@ -1,6 +1,6 @@
 {
   "name": "a73-inuit-color-settings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Global, default settings for colors",
   "main": "_settings.colors.scss",
   "repository": {
